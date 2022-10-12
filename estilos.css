@@ -1,0 +1,45 @@
+header{
+    padding: 0px;
+    margin 0px;
+}
+.post{
+    font-size: 2em;
+    font-family: Georgia;
+    line-height: 2;
+    font-weight: normal;
+    color: brown;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+header{
+    background-color: aqua;
+    display: inline-block;
+    padding: 20px 30px 40px 50px;
+    height: 100;
+    width: 100;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+h2{
+    background-color: aqua;
+    padding: 20px 30px 40px 50px;
+    height: 100;
+    width: 100;
+    box-sizing: border-box;
+    text-align: center;
+    display: inline-block;
+    margin: 20px 10px;
+    border-radius: 50%;
+
+}
+/* p{
+    basicos
+    display: inline;
+    display: block;
+    display: inline-block;
+    display: none;
+    avanzados
+    display: g y f
+
+} */
